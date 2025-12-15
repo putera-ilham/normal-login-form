@@ -190,9 +190,9 @@ The files to build this project are available in the repository.
 
 
 <!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+<!-- ## Acknowledgments
 
-* Dr. Angela Yu, Lead instructor @ London App Brewery
+* Dr. Angela Yu, Lead instructor @ London App Brewery -->
 
 <!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
